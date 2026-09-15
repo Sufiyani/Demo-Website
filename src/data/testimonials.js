@@ -1,0 +1,48 @@
+// mock data, replace with API later
+export const testimonials = [
+  {
+    id: 1,
+    name: "Ahmed Raza",
+    role: "Regular Client",
+    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    rating: 5,
+    text: "Luxe Salon is hands down the best grooming experience I've had in Karachi. The attention to detail is impeccable — my haircut was flawless and the hot towel shave left me feeling like a new person. The ambience is top-class. Won't go anywhere else!",
+    service: "Royal Haircut + Hot Towel Shave",
+  },
+  {
+    id: 2,
+    name: "Bilal Hussain",
+    role: "Wedding Client",
+    avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+    rating: 5,
+    text: "Got the Wedding Package done here and absolutely loved it. The stylist understood exactly what I wanted without me having to explain much. Walked out feeling like royalty. My guests couldn't stop complimenting how sharp I looked on my big day!",
+    service: "Wedding Package",
+  },
+  {
+    id: 3,
+    name: "Zain Malik",
+    role: "Frequent Visitor",
+    avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+    rating: 5,
+    text: "The Glow Package is my go-to every month. The whitening facial combined with the haircut and beard styling is perfect value. The staff are friendly, professional, and always on time. Best salon in DHA — highly recommended!",
+    service: "Glow Package",
+  },
+  {
+    id: 4,
+    name: "Hamza Sheikh",
+    role: "Regular Client",
+    avatar: "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=200&q=80",
+    rating: 5,
+    text: "I've tried many salons across Karachi but Luxe Salon is in a different league. The ambience is super relaxing, the products they use are premium, and the stylists actually care about getting it right. The deep tissue massage is absolutely incredible.",
+    service: "Relaxation Package",
+  },
+  {
+    id: 5,
+    name: "Faisal Khan",
+    role: "New Client",
+    avatar: "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&q=80",
+    rating: 5,
+    text: "Came here for the first time based on a friend's recommendation and was completely blown away. The salon is beautifully designed, the staff are warm and welcoming, and the service quality is exceptional. The balayage came out exactly as I envisioned. Definitely coming back!",
+    service: "Color Specialist Package",
+  },
+];

@@ -1,0 +1,43 @@
+// mock data, replace with API later
+export const team = [
+  {
+    id: 1,
+    name: "Hassan Mirza",
+    role: "Master Stylist & Founder",
+    specialty: "Precision Cuts, Hair Color, Balayage",
+    experience: 14,
+    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    bio: "With over 14 years of experience across Karachi and Dubai, Hassan founded Luxe Salon with a vision of redefining men's grooming. His signature precision cuts and eye for detail are legendary among loyal clients.",
+    socials: { instagram: "#", facebook: "#" },
+  },
+  {
+    id: 2,
+    name: "Usman Tariq",
+    role: "Senior Color Specialist",
+    specialty: "Fashion Color, Highlights, Keratin",
+    experience: 9,
+    avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+    bio: "Usman is our go-to colorist for stunning transformations. With a keen eye for tones and trends, he specializes in balayage, fashion coloring, and keratin treatments that clients rave about.",
+    socials: { instagram: "#", facebook: "#" },
+  },
+  {
+    id: 3,
+    name: "Bilal Qureshi",
+    role: "Beard & Shave Expert",
+    specialty: "Hot Towel Shave, Beard Sculpting, Grooming",
+    experience: 7,
+    avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+    bio: "Bilal is the artist behind our legendary hot towel shaves and intricate beard sculpting. His craft and attention to detail make every appointment feel like a luxury ritual.",
+    socials: { instagram: "#", facebook: "#" },
+  },
+  {
+    id: 4,
+    name: "Sara Ahmed",
+    role: "Skin & Wellness Therapist",
+    specialty: "Facials, Massage, Skin Treatments",
+    experience: 8,
+    avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+    bio: "Sara brings a holistic approach to grooming — her custom facial and massage treatments are deeply relaxing and results-driven. Clients leave looking and feeling years younger.",
+    socials: { instagram: "#", facebook: "#" },
+  },
+];
